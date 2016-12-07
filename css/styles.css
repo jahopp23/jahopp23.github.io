@@ -15,15 +15,10 @@
     padding-top: 0px;
 }
 
-.col-md-6 img{
-    display: inline-block;
-    position: top;
-    height: 350px;
-    width: 500px;
-}
 
 .jumbotron{
     height: 400px;
+    background-color: white;
 }
 
 .jumbotron p{
@@ -39,7 +34,7 @@
 }
 
 .process-section h1{
-    color: black;
+    color: #BF0F2E;
 }
 
 .terms-section h1{
@@ -51,16 +46,23 @@
 }
 
 .panel .panel-heading{
-    background-color: #133695;
+    /* background-color: #133695; */
 }
 
-.panel .panel-heading h3{
-    color: white;
+.panel .panel-heading h2{
+    
+
 }
 
 .panel-body {
     font-size: 1.250em;
     line-height: 1.250em;
+}
+
+.process-section h1{
+    font-size: 3.000em;
+    color: black;
+    
 }
 
 
