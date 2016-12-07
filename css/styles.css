@@ -9,6 +9,12 @@
 
 }
 
+ iframe{
+    
+   padding-left: 75px;
+   padding-top:10px;
+}
+
 
 
 .navbar-brand{
@@ -19,6 +25,7 @@
 .jumbotron{
     height: 400px;
     background-color: white;
+    
 }
 
 .jumbotron p{
@@ -33,12 +40,10 @@
     color: #133695;
 }
 
-.process-section h1{
-    color: #BF0F2E;
-}
+
 
 .terms-section h1{
-    color: black;
+    color: #133695;
 }
 
 .btn{
@@ -61,9 +66,12 @@
 
 .process-section h1{
     font-size: 3.000em;
-    color: black;
+    color:  #133695;
+ 
     
 }
+
+
 
 
 
