@@ -37,7 +37,8 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: black;
+    background: url('../assets/stock1.jpg');
+    background-repeat: no-repeat;
 }
 
 .process-section {
@@ -45,21 +46,22 @@ of those sections to manage the look and feel of the site. */
     padding-top: 60px;
     text-align: center;
     background: white;
-    padding-bottom: 0px;
+   
 }
 
 .terms-section {
     height: 100%;
-    padding-top: 60px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
 }
 
 .application-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
     background: #fff;
+    
 }
 
 .contact-section {
@@ -67,4 +69,11 @@ of those sections to manage the look and feel of the site. */
     padding-top: 50px;
     text-align: center;
     background: #fff;
+}
+
+.footer-section{
+    height: 100%;
+    padding-top: 0px; 
+    text-align: center;
+    background: #133695;
 }
