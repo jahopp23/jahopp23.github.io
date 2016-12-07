@@ -22,6 +22,10 @@
     width: 500px;
 }
 
+.jumbotron{
+    height: 400px;
+}
+
 .jumbotron p{
     font-size: 1.250em;
 }
@@ -35,6 +39,10 @@
 }
 
 .process-section h1{
+    color: black;
+}
+
+.terms-section h1{
     color: black;
 }
 
