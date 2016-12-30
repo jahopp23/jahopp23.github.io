@@ -1,0 +1,93 @@
+/* Loan Star CSS Styles */ 
+
+.navbar-default{
+    background-color: #FFFFFF;
+}
+
+.navbar-brand img{ 
+    height: 50px; 
+
+}
+
+ iframe{
+    
+   padding-left: 75px;
+   padding-top:10px;
+}
+
+
+
+.navbar-brand{
+    padding-top: 0px;
+}
+
+
+.jumbotron{
+    height: 400px;
+    background-color: white;
+    
+}
+
+.jumbotron p{
+    font-size: 1.250em;
+}
+
+.jumbotron h5{
+    color: #BF0F2E;
+}
+
+.jumbotron h3{
+    color: #133695;
+}
+
+
+
+.terms-section h1{
+    color: #133695;
+}
+
+.btn{
+    background-color: #133695;
+}
+
+.panel .panel-heading{
+    /* background-color: #133695; */
+}
+
+.panel .panel-heading h2{
+    
+
+}
+
+.panel-body {
+    font-size: 1.250em;
+    line-height: 1.250em;
+}
+
+.process-section h1{
+    font-size: 3.000em;
+    color:  #133695;
+ 
+    
+}
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+
+
+
+
+
+    

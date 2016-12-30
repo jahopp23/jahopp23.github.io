@@ -71,6 +71,26 @@
     
 }
 
+.contact-section input{
+    width: 400px;
+}
+
+.contact-section h1{
+    color: black;
+}
+
+.contact-section label{
+    color: black;
+}
+
+.contact-section form{
+    padding-top: 30px;
+}
+
+
+
+    
+
 
 
 

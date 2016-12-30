@@ -72,7 +72,7 @@ of those sections to manage the look and feel of the site. */
     }
     
     .footer-section{
-        padding-top: 600px;
+        /*padding-top: 600px; */
     }
 
 }
@@ -114,6 +114,7 @@ of those sections to manage the look and feel of the site. */
     
     .contact-section{
         padding-top: 0px;
+        
     }
 }
 
@@ -128,15 +129,18 @@ of those sections to manage the look and feel of the site. */
 
 .contact-section {
     height: 100%;
+
    /* padding-top: 50px;*/
     text-align: center;
-    background: #fff;
+    background: #fff; 
 }
+
+
 
 .footer-section{
    /* height: 100%; */
     /*padding-top: 0px; */
     height: 100px;
     text-align: center;
-    background: #133695;
+    background: #fff;
 }
