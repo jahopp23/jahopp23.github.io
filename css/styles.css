@@ -15,6 +15,9 @@
    padding-top:10px;
 }
 
+.page-scroll h1{
+   color: black;
+   }
 
 
 .navbar-brand{
@@ -23,22 +26,31 @@
 
 
 .jumbotron{
-    height: 400px;
+    height: 350px;
     background-color: white;
+    border-style: inset;
+    border-width: 15px;
     
 }
+
+.jumbotron h1{
+   color: black;
+   font-family: courier-new;
+   }
 
 .jumbotron p{
     font-size: 1.250em;
 }
 
 .jumbotron h5{
-    color: #BF0F2E;
+    color: green;
 }
 
 .jumbotron h3{
-    color: #133695;
+    color: red;
+    padding-top: 0px;
 }
+
 
 
 

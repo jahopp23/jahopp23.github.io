@@ -37,18 +37,23 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: url('../assets/stock1.jpg');
-    background-repeat: no-repeat;
+    background-image: url('../assets/background01.png');
+    background-repeat:repeat;
 }
 
 .process-section {
     height: 100%;
-    padding-top: 60px;
+    padding-top: 1.00em;
     text-align: center;
     background: #fff;
+    width: 100%;
 
    
 }
+
+.process-section .jumbotron{
+   width: auto;
+   }
 
 .terms-section {
     height: 100%;
@@ -84,8 +89,8 @@ of those sections to manage the look and feel of the site. */
             height: 100%;
             padding-top: 150px;
             text-align: center;
-            background: url('../assets/stock1.jpg');
-            background-repeat: no-repeat;
+            background-image: url('../assets/background01.png');
+            background-repeat:repeat;
     }
     
     .process-section {
