@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Start ootstrap - Scrolling Nav (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
@@ -31,7 +31,11 @@ html {
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
 
-
+ .well-lg{
+    border-style: inset;
+    border-width: 5px;
+    
+}
 
 .intro-section {
     height: 100%;
@@ -45,10 +49,10 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 1.00em;
     text-align: center;
-    background: #fff;
+    background: #DCFEE1;
     width: 100%;
 
-   
+
 }
 
 .process-section .jumbotron{
@@ -64,7 +68,7 @@ of those sections to manage the look and feel of the site. */
 
 @media (min-width: 544px) { 
     .terms-section{
-        padding-top: 250px;
+       
     }
     
     .application-section{
@@ -86,7 +90,7 @@ of those sections to manage the look and feel of the site. */
     
     .intro-section{
           
-            height: 100%;
+            height: 500px;
             padding-top: 150px;
             text-align: center;
             background-image: url('../assets/background01.png');
@@ -94,20 +98,27 @@ of those sections to manage the look and feel of the site. */
     }
     
     .process-section {
-    height: 40%;
+    height: 100%;
+    
     padding-top: 60px;
     text-align: center;
-    background: #fff;
+    background: #DCFEE1;
 
    
    }
+
+  
     .terms-section{
         
     height: 100%;
     /*padding-top: 10px; */
     text-align: center;
-    background: #fff;
+    background: black;
         
+    }
+
+    .terms-section h1{
+        font-family: 
     }
     
     .application-section{
@@ -149,3 +160,4 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #fff;
 }
+
