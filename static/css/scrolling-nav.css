@@ -158,3 +158,9 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
+.contact-section{
+    background-image: url('/assets/cool.gif');
+    background-repeat: repeat;
+
+}
+

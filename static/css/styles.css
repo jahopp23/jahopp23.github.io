@@ -78,6 +78,11 @@ table{
 
    }
 
+   .contact-section .col-lg-12{
+    margin-top: 5.00em;
+    height: 50%;
+   }
+
 .jumbotron p{
     font-size: 1.250em;
 }
