@@ -56,8 +56,8 @@ of those sections to manage the look and feel of the site. */
 }
 
 .process-section {
-    height: 100%;
-    padding-top: 1.00em;
+    height: 50%;
+    padding-top: 4.00em;
     text-align: center;
     background: white;
     width: 100%;
