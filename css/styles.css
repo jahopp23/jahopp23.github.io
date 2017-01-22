@@ -54,17 +54,21 @@ ul li{
 
 }
 
+.navbar-tech{
+  background-color: #00ff99;
+}
+
 table{
   border: none;
 }
 
 
 .col-md-6 h1{
-   color: #eee;
+   color: black;
    font-family: VT323;
    margin: 1.00em;
    font-size: 3.20em;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px #ffe6e6;
     font-weight: bold;
 
   
@@ -81,9 +85,10 @@ table{
 .intro-section ul li {
   list-style-type: none;
   display: inline;
-  font-family: Abel;
- 
-  color: white;
+  font-family: Hammersmith One;
+  font-size: 0.75em;
+  color: black;
+  font-weight: 
 }
 
 .facebook-row h4{
