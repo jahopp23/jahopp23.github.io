@@ -1,0 +1,244 @@
+/* Loan Star CSS Styles */ 
+
+.navbar-default{
+    background-color: #FFFFFF;
+}
+
+.navbar-brand img{ 
+    height: 50px; 
+
+}
+
+ iframe{
+    
+   padding-left: 75px;
+   padding-top:10px;
+}
+
+.page-scroll h3{
+   color: black;
+   font-family: Hammersmith One;
+   padding-top: 8px;
+   font-weight: bold;
+   }
+
+
+.navbar-brand{
+    padding-top: 0px;
+    
+}
+
+
+.jumbotron{
+    
+    background-color: transparent;
+    width: 500px;
+    height: 100px;
+   
+    
+}
+
+ul li{
+  display: inline;
+
+  
+}
+
+.well {
+    text-align: justify;
+    margin-top: 1.00em;
+}
+
+.table-bordered {
+  border:none;
+
+}
+
+.navbar-tech{
+  background-color: #00ff99;
+}
+
+table{
+  border: none;
+}
+
+
+.col-lg-8 h1{
+   color: black;
+   font-family: Hammersmith One;
+   margin: 1.00em;
+   font-size: 3.20em;
+    text-shadow: 2px 2px #ffe6e6;
+    font-weight: bold;
+
+  
+   }
+
+   .terms-section img{
+
+   }
+
+.jumbotron p{
+    font-size: 1.250em;
+}
+
+.jumbotron h5{
+    color: green;
+}
+
+.intro-section ul li {
+  list-style-type: none;
+  display: inline;
+  font-family: Hammersmith One;
+  font-size: 0.75em;
+  color: black;
+  font-weight: 
+}
+
+.facebook-row h4{
+  font-family: VT323;
+  
+  font-size: 3.00em;
+  color: black;
+}
+
+.facebook-row ul li{
+  list-style-type: none;
+  display: inline;
+  font-size: 2.00em;
+}
+
+.jumbotron h3{
+    color: red;
+    padding-top: 0px;
+}
+
+ .process-section .lead{
+  font-family: Hammersmith One;
+  margin: 2.00em;
+  color: black;
+  font-size: 1.00em;
+  padding-top: 0.50em;
+  line-height: 1.50em;
+  
+}
+
+
+
+.terms-section h1{
+    color: black;
+    font-family: Hammersmith One;
+    font-weight: bold;
+    
+  
+
+}
+
+.terms-section h2{
+  font-family: ;
+  font-size: 1.50em;
+}
+
+.btn{
+    background-color: #133695;
+}
+
+.panel .panel-heading{
+    /* background-color: #133695; */
+}
+.panel .panel-heading h2{
+    
+
+}
+
+.panel-body {
+    font-size: 1.250em;
+    line-height: 1.250em;
+}
+
+.process-section h2{
+    font-size: 2.00em;
+    padding-top: 1.00em;
+    color: black;
+    font-family: Hammersmith One;
+    
+}
+
+.contact-section input{
+    width: 400px;
+}
+
+.contact-section h1{
+    color: black;
+}
+
+.contact-section label{
+    color: black;
+}
+
+.contact-section form{
+    padding-top: 30px;
+}
+
+.terms-section h2{
+  color: black;
+}
+
+.terms-section ul li{
+  list-style-type: none;
+  color: black;
+  display: inline;
+  font-family: VT323;
+  
+}
+
+.terms-section .panel-default{
+    margin-top: 0.00em;
+    height: 3000px;
+    background-color: rgba(255,255,255,0.5);
+    padding-bottom: 0.00em;
+
+
+}
+
+.terms-section .panel-heading {
+  padding-bottom: 4.00em;
+}
+
+
+
+
+    
+
+
+#piclist{
+  margin: 1.00em;
+}
+
+
+.panel-default{
+  height: 20.00em;
+
+}
+
+.process-section {
+  margin-top: 0px;
+}
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+
+
+
+
+
+    

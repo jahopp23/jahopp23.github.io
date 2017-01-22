@@ -1,22 +1,22 @@
 {
-  "name": "page",
+  "name": "john_h_developer_home_page",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "bootstrap > node",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jahopp23/page_01.git"
+    "url": "git+https://github.com/jahopp23/jahopp23.github.io.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "John Allen Hopper",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jahopp23/page_01/issues"
+    "url": "https://github.com/jahopp23/jahopp23.github.io/issues"
   },
-  "homepage": "https://github.com/jahopp23/page_01#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1"
+  "homepage": "https://github.com/jahopp23/jahopp23.github.io#readme",
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
