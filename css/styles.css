@@ -15,9 +15,11 @@
    padding-top:10px;
 }
 
-.page-scroll h1{
+.page-scroll h3{
    color: black;
-   font-family: VT323 ;
+   font-family: Hammersmith One;
+   padding-top: 8px;
+   font-weight: bold;
    }
 
 
@@ -28,19 +30,43 @@
 
 
 .jumbotron{
-    height: 400px;
+    
     background-color: transparent;
+    width: 500px;
+    height: 100px;
    
     
 }
 
+ul li{
+  display: inline;
+
+  
+}
+
+.well {
+    text-align: justify;
+    margin-top: 1.00em;
+}
+
+.table-bordered {
+  border:none;
+
+}
+
+table{
+  border: none;
+}
 
 
 .col-md-6 h1{
-   color: white;
-   font-family: Bungee Shade;
+   color: #eee;
+   font-family: VT323;
    margin: 1.00em;
-   font-size: 3.00em;
+   font-size: 3.20em;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+
   
    }
 
@@ -52,11 +78,25 @@
     color: green;
 }
 
+.intro-section ul li {
+  list-style-type: none;
+  display: inline;
+  font-family: Abel;
+ 
+  color: white;
+}
+
 .facebook-row h4{
   font-family: VT323;
   
+  font-size: 3.00em;
+  color: black;
+}
+
+.facebook-row ul li{
+  list-style-type: none;
+  display: inline;
   font-size: 2.00em;
-  color: white;
 }
 
 .jumbotron h3{
@@ -65,20 +105,29 @@
 }
 
  .process-section .lead{
-  font-family: VT323;
-  margin: 1.00em;
+  font-family: Hammersmith One;
+  margin: 2.00em;
   color: black;
-  padding-top: 1.50em;
+  font-size: 1.00em;
+  padding-top: 0.50em;
+  line-height: 1.50em;
   
 }
 
 
 
 .terms-section h1{
-    color: white;
-    font-family: Concert One;
-    padding-top: 1.00em;
-    font-size: 3.00em;
+    color: black;
+    font-family: Hammersmith One;
+    font-weight: bold;
+    
+  
+
+}
+
+.terms-section h2{
+  font-family: ;
+  font-size: 1.50em;
 }
 
 .btn{
@@ -98,11 +147,11 @@
     line-height: 1.250em;
 }
 
-.process-section h1{
-    font-size: 3.000em;
+.process-section h2{
+    font-size: 2.00em;
     padding-top: 1.00em;
     color: black;
-    font-family: Bungee Shade;
+    font-family: Hammersmith One;
     
 }
 
@@ -122,12 +171,50 @@
     padding-top: 30px;
 }
 
+.terms-section h2{
+  color: black;
+}
+
+.terms-section ul li{
+  list-style-type: none;
+  color: black;
+  display: inline;
+  font-family: VT323;
+  
+}
+
+.terms-section .panel-default{
+    margin-top: 0.00em;
+    height: 3000px;
+    background-color: rgba(255,255,255,0.5);
+    padding-bottom: 0.00em;
+
+
+}
+
+.terms-section .panel-heading {
+  padding-bottom: 4.00em;
+}
+
+
 
 
     
 
 
+#piclist{
+  margin: 1.00em;
+}
 
+
+.panel-default{
+  height: 20.00em;
+
+}
+
+.process-section {
+  margin-top: 0px;
+}
 
 
 

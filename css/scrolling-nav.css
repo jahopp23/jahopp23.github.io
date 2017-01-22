@@ -25,41 +25,55 @@ html {
     .top-nav-collapse {
         padding: 0;
     }
+
+    .intro-section h1{
+        font-size: 1.00em;
+    }
+       .col-md-6 h1{
+        font-size: 0.500em;
+    }
+
+
 }
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
 
- .well-lg{
-    border-style: inset;
-    border-width: 5px;
-    
-}
 
 .intro-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 60%;
+    padding-top: 4.00em;
     text-align: center;
-    background-image: url('../assets/background01.png');
-    background-repeat:repeat;
+    
+    background-size: 2200px 800px;
+    background-repeat: repeat;
+    background-color: black;
+}
+
+.intro-section img{
+    width: 500px;
 }
 
 .process-section {
     height: 100%;
     padding-top: 1.00em;
     text-align: center;
-    background: #DCFEE1;
+    background: white;
     width: 100%;
 
 
+
 }
+
+
 
 .process-section .jumbotron{
    width: auto;
    }
 
 .terms-section {
+    margin-top: 13.00em;
     height: 100%;
     /*padding-top: 10px; */
     text-align: center;
@@ -68,41 +82,16 @@ of those sections to manage the look and feel of the site. */
 
 @media (min-width: 544px) { 
     .terms-section{
+
        
-    }
-    
-    .application-section{
-        padding-top: 600px;
-    }
-    
-    .contact-section{
-        padding-top: 350px; 
-        padding-bottom: 1000px;
-    }
-    
-    .footer-section{
-        /*padding-top: 600px; */
-    }
-
-}
-
-@media (min-width: 992px) { 
-    
-    .intro-section{
-          
-            height: 500px;
-            padding-top: 150px;
-            text-align: center;
-            background-image: url('../assets/background01.png');
-            background-repeat:repeat;
-    }
+  
     
     .process-section {
     height: 100%;
     
     padding-top: 60px;
     text-align: center;
-    background: #DCFEE1;
+    background: white;
 
    
    }
@@ -110,12 +99,20 @@ of those sections to manage the look and feel of the site. */
   
     .terms-section{
         
-    height: 100%;
+    height: 150%;
     /*padding-top: 10px; */
     text-align: center;
     background: black;
+
+    background-repeat: repeat;
+
         
     }
+
+       .col-md-6 h1{
+        font-size: 0.500em;
+    }
+}
 
     .terms-section h1{
         font-family: 
