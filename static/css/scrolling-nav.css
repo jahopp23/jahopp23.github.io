@@ -46,9 +46,12 @@ of those sections to manage the look and feel of the site. */
     padding-top: 4.00em;
     text-align: center;
     
-    background-size: 2200px 800px;
-    background-repeat: repeat;
-    background-color: #00ff99;
+    background-size: 500px 500px;
+  
+   /* background-color: #00ff99; */
+   background-image: url('/assets/background01.png');
+   background-repeat: repeat;
+
 }
 
 .intro-section img{
@@ -156,11 +159,5 @@ of those sections to manage the look and feel of the site. */
     height: 100px;
     text-align: center;
     background: #fff;
-}
-
-.contact-section{
-    background-image: url('/assets/cool.gif');
-    background-repeat: repeat;
-
 }
 

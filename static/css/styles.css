@@ -58,14 +58,17 @@ ul li{
   background-color: #00ff99;
 }
 
-table{
-  border: none;
+.table{
+      border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
 }
 
 
 .col-lg-8 h1{
-   color: black;
-   font-family: Hammersmith One;
+   color: #aa80ff;
+   font-family: VT323;
    margin: 1.00em;
    font-size: 3.20em;
     text-shadow: 2px 2px #ffe6e6;
@@ -95,8 +98,8 @@ table{
   list-style-type: none;
   display: inline;
   font-family: Hammersmith One;
-  font-size: 0.75em;
-  color: black;
+  font-size: 0.95em;
+  color: white;
   font-weight: 
 }
 
